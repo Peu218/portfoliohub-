@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>PortfolioHUB - Seu Nome</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f7f7f7;
+      color: #333;
+    }
+    header {
+      background-color: #004080;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    main {
+      padding: 20px;
+    }
+    section {
+      margin-bottom: 30px;
+    }
+    a {
+      color: #004080;
+      text-decoration: none;
+    }
+    .card {
+      background-color: white;
+      padding: 15px;
+      border-radius: 8px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      margin-bottom: 20px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>PortfolioHUB</h1>
+    <p>Implantação com Google Workspace, GitHub e IA Gemini</p>
+  </header>
+
+  <main>
+    <section>
+      <h2>Sobre o Projeto</h2>
+      <div class="card">
+        <p>Este portfólio foi desenvolvido como parte do Desafio Final do Bootcamp I. Ele reúne meus projetos, com integração ao Google Drive, GitHub e suporte da IA Gemini.</p>
+      </div>
+    </section>
+
+    <section>
+      <h2>Projetos</h2>
+      <div class="card">
+        <h3>Projeto 1 – Nome do Projeto</h3>
+        <p><a href="https://drive.google.com" target="_blank">Ver no Google Drive</a></p>
+        <p><a href="https://github.com/seuusuario/seurepositorio" target="_blank">Ver no GitHub</a></p>
+      </div>
+      <div class="card">
+        <h3>Projeto 2 – Nome do Projeto</h3>
+        <p><a href="https://drive.google.com" target="_blank">Ver no Google Drive</a></p>
+        <p><a href="https://github.com/seuusuario/seurepositorio" target="_blank">Ver no GitHub</a></p>
+      </div>
+    </section>
+
+    <section>
+      <h2>Contato</h2>
+      <div class="card">
+        <p>Email: seuemail@email.com</p>
+        <p>LinkedIn: <a href="https://linkedin.com/in/seuperfil" target="_blank">Perfil</a></p>
+      </div>
+    </section>
+  </main>
+</body>
+</html>
