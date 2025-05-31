@@ -1,0 +1,12 @@
+portfoliohub-/
+├── docs/
+│   ├── planejamento_implantacao.md
+│   ├── configuracao_google_workspace.md
+│   ├── gestao_usuarios_seguranca.md
+│   ├── controle_acesso_git_github.md
+│   ├── finalizacao_testes.md
+│   ├── revisao_apresentacao.md
+├── src/
+│   └── exemplo_codigo_portfoliohub.txt
+├── README.md
+└── .gitignore

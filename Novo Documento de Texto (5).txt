@@ -1,0 +1,97 @@
+# Gestão de Usuários e Segurança
+
+## ✅ Gestão de Usuários
+
+- Criados perfis de usuários no Google Workspace.
+- Definidas permissões conforme as funções.
+
+## 🔐 Segurança
+
+- Implementadas políticas de segurança com base nas recomendações do Google GEMINI.
+- Configurada autenticação em duas etapas (2FA).
+
+# Gestão de Usuários e Segurança
+
+## ✅ Gestão de Usuários
+
+- Criados perfis de usuários no Google Workspace.
+- Definidas permissões conforme as funções.
+
+## 🔐 Segurança
+
+- Implementadas políticas de segurança com base nas recomendações do Google GEMINI.
+- Configurada autenticação em duas etapas (2FA).
+
+# Compartilhamento e Controle de Acesso com Git e GitHub
+
+## ✅ Integração com GitHub
+
+- Repositório criado: [portfoliohub-](https://github.com/Peu218/portfoliohub-)
+- Configurado controle de versão.
+- Estabelecidas práticas de colaboração (branching, pull requests).
+
+## 📄 Documentação
+
+- Processo de configuração e integração documentado.
+
+- Arquivos organizados na pasta `docs/`.
+
+
+# Finalização da Integração e Testes
+
+## ✅ Etapas Completadas
+
+- Integração com Google Workspace.
+- Configurações de segurança implementadas.
+- Controle de versão no GitHub funcionando.
+
+## 🧪 Testes
+
+- Testadas integrações e sincronizações.
+- Preparado para o lançamento em produção.
+
+
+
+
+# Revisão Final e Apresentação
+
+## 🎥 Apresentação
+
+- Link para apresentação no YouTube: [INSIRA AQUI O LINK DO VÍDEO]
+
+## ✅ Pontos Apresentados
+
+- Etapas da implantação.
+- Soluções implementadas.
+- Desafios superados.
+
+
+
+# Exemplo de configuração de um projeto no Google Drive
+
+Projeto: PortfolioHUB
+Pasta: PortfolioHUB_Projetos
+Permissões: 
+- Leitura: Público
+- Escrita: Equipe de desenvolvimento
+
+# Link da pasta: [INSIRA LINK DO GOOGLE DRIVE]
+
+
+
+
+
+# Ignorar arquivos sensíveis e temporários
+*.log
+*.tmp
+*.bak
+
+
+
+
+
+
+
+
+
+

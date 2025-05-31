@@ -1,0 +1,11 @@
+# Configuração Inicial e Integração com Google Workspace
+
+## ✅ Ambiente Google Workspace
+
+- Criado ambiente dedicado para o projeto.
+- Configurado Google Drive para armazenamento de projetos.
+- Sincronização com Google Calendar para gestão de prazos.
+
+## 🤖 Integração com IA Google GEMINI
+
+- Utilizado Google GEMINI para suporte em dúvidas e como guia de implantação.

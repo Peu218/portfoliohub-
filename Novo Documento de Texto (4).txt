@@ -1,0 +1,25 @@
+# PortfolioHUB + IA GEMINI 🚀
+
+Repositório criado para a entrega final do Bootcamp I - 2025.
+
+## 📌 Descrição
+
+Este repositório contém a documentação completa da implantação do PortfolioHUB, integrando ferramentas do Google Workspace, GitHub e IA Google GEMINI, conforme solicitado no desafio.
+
+## 📂 Estrutura
+
+- **docs/**: Documentação completa do processo de implantação.
+- **src/**: Exemplos de código e arquivos utilizados.
+- **README.md**: Esta apresentação do projeto.
+
+## ✅ Tecnologias e Ferramentas
+
+- Google Workspace
+- Google GEMINI
+- Git e GitHub
+- Google Drive
+- Google Calendar
+
+## 👨‍💻 Autor
+
+- Peu218
